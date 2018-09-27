@@ -1,5 +1,5 @@
 def display_rainbow(colors)
-  print "R: #{colors[0]},"
+  print "R: #{colors[0]}, "
   print "O: #{colors[1]}"
   print "Y: #{colors[2]}"
   print "G: #{colors[3]}"
